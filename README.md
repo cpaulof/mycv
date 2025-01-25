@@ -47,7 +47,6 @@ Atualmente realizando dupla diplomação de Mestrado em Engenharia de Inteligên
 - **Ferramentas:** Git, Docker, Linux, OpenCV, AWS (básico)  
 - **Especializações:** Visão Computacional, Deep Learning, Processamento de Imagem, Análise de Dados  
 
----
 
 ### **Projetos Relevantes**  
 **Redução de Operações de Alívio de Carga no Porto do Itaqui-MA**  
@@ -58,20 +57,17 @@ Atualmente realizando dupla diplomação de Mestrado em Engenharia de Inteligên
 - Modelo de **Deep Learning** para detecção em tempo real, publicado em anais científicos.  
 - Resultado: 95% de acurácia em ambientes fechados.  
 
----
 
 ### **Certificações**  
 - **Huawei HCIA-AI** (Inteligência Artificial) | 2022  
 - **TensorFlow: Machine Learning e Deep Learning** | 2021  
 - **Certificado de Participação em Seeds for the Future** (Huawei) | 2021  
 
----
 
 ### **Prêmios**  
 - 🥇 **1º Lugar** – Seeds for the Future 2021 (Huawei Brasil)  
 - 🥈 **2º Lugar** – SEMIC IFMA 2022 (Categoria Planeta Play)  
 
----
 
 ### **Idiomas**  
 - **Português:** Nativo  
